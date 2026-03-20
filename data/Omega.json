@@ -8,5 +8,11 @@
     "percentToQualify": 70,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Bittersweet",
+            "link": "https://www.youtube.com/watch?v=pNSMDRaj97k",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
