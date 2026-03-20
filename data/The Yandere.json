@@ -8,5 +8,17 @@
     "percentToQualify": 74,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "ButterFish",
+            "link": "https://youtu.be/5YTPEE7GUYs&t=120s",
+            "percent": 100,
+            "hz": 144
+        }
+        {
+            "user": "ButterFish",
+            "link": "https://www.youtube.com/watch?v=gyYWEYdwhQ8",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
