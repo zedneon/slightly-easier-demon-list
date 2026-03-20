@@ -8,5 +8,11 @@
     "percentToQualify": 56,
     "password": "121296",
     "records": [
+        {
+            "user": "kobbob7",
+            "link": "https://youtu.be/7Ey5MSFhS6M",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
