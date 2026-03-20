@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=snJeWsFpbVs",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "crost",
+            "link": "https://youtu.be/lEZfXso8QqA",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
