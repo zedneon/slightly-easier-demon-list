@@ -8,5 +8,11 @@
     "percentToQualify": 68,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "finlay",
+            "link": "https://www.youtube.com/watch?v=yDCh4aD4ZvA",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
