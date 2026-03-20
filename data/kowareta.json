@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=2LiVDZ4vCMQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "TopzeraYT",
+            "link": "https://youtu.be/nH3i805hAZU",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
