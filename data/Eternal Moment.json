@@ -19,6 +19,12 @@
             "link": "https://youtu.be/YNi-1D3aG20",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "nei",
+            "link": "https://www.youtube.com/watch?v=KrPdpM2F33k",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
