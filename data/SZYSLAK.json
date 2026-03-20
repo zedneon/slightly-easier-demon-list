@@ -8,5 +8,11 @@
     "percentToQualify": 65,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "nei",
+            "link": "https://www.youtube.com/watch?v=Yrsas2BR4oc",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
