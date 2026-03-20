@@ -25,6 +25,12 @@
             "link": "https://youtu.be/vwiGQLkqBnA",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "AlecZD",
+            "link": "https://www.youtube.com/watch?v=MvKsdTLGQ14",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
