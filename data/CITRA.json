@@ -19,6 +19,24 @@
             "link": "https://www.youtube.com/watch?v=hCSUnxvdKAk",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "ColdSweatEnjoyer",
+            "link": "https://www.youtube.com/watch?v=G0v8PF1WZf0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Nitwose",
+            "link": "https://youtu.be/O__1LgfKcRg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Twoft",
+            "link": "https://youtu.be/ooZcKPRApvI",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
