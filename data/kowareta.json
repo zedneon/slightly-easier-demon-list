@@ -8,5 +8,11 @@
     "percentToQualify": 56,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Twoft",
+            "link": "https://www.youtube.com/watch?v=MKkY-5rt26U",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
