@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=H1gHFlDcylo",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "mftosis",
+            "link": "https://youtu.be/loCNe4bn3OI",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }
