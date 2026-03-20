@@ -8,5 +8,11 @@
     "percentToQualify": 64,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "CodeJevil",
+            "link": "https://youtu.be/djGeifdFl7g",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
