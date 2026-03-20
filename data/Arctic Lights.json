@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=kY11LPBZ4OA",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "oliverbum",
+            "link": "https://youtu.be/Mpgp25ceLok",
+            "percent": 100,
+            "hz": 180
         }
     ]
 }
