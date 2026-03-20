@@ -8,5 +8,11 @@
     "percentToQualify": 53,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Jif",
+            "link": "https://www.youtube.com/watch?v=H1gHFlDcylo",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
