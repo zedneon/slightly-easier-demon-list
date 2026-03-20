@@ -8,5 +8,11 @@
     "percentToQualify": 64,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "normoosey",
+            "link": "https://youtu.be/WPbJkCfHxQg",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
