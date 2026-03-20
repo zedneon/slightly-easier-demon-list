@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=N0Zt2jVNoJg",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "normoosey",
+            "link": "https://youtu.be/In4ocZ9jqqQ",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
