@@ -8,5 +8,11 @@
     "percentToQualify": 64,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "NotCloudGD",
+            "link": "https://www.youtube.com/watch?v=Kifpes4XOew",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
