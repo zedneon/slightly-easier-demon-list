@@ -55,6 +55,12 @@
             "link": "https://youtu.be/oIl8AFujBbw",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "nolli",
+            "link": "https://www.youtube.com/watch?v=vRRS63OA-3c",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
