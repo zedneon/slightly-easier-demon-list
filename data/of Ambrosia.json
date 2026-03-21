@@ -13,6 +13,12 @@
             "link": "https://youtu.be/VNdoi_rNNoo",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Lantern",
+            "link": "https://www.youtube.com/watch?v=58nu8PTsNJA",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
