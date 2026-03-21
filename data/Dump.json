@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=xHPOqtF-15o",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "camdyn",
+            "link": "https://www.youtube.com/watch?v=LRNuU-iCaTI",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
