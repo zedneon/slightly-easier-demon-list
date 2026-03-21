@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=Rp9NKn7rtQ4",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Lantern",
+            "link": "https://www.youtube.com/watch?v=RbpX4byxq_c",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
