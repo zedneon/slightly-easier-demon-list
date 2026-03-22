@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=SSLNdgfIax0",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "wigglebutt",
+            "link": "https://youtu.be/hJ_PnFBJPWs?si=iqOjcH0KAlE1B5AQ",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
