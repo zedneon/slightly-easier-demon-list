@@ -61,6 +61,12 @@
             "link": "www.youtube.com/watch?v=Ee20dFodx_M",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "cjsoldan",
+            "link": "https://youtu.be/1lYpNU3_760",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
