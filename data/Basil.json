@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "wigglebutt",
+            "link": "https://www.youtube.com/watch?v=f4O4uSU6I8I",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
