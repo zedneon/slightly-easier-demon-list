@@ -8,5 +8,11 @@
     "percentToQualify": 67,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "skylar",
+            "link": "https://www.youtube.com/watch?v=ykER5h_P3os",
+            "percent": 92,
+            "hz": 240
+        }
     ]
 }
