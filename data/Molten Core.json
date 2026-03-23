@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "zedneon",
+            "link": "https://youtu.be/LPwZA-bo6cY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
