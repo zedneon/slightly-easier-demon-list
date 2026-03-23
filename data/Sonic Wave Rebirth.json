@@ -8,11 +8,17 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
-                {
+        {
             "user": "Elinore",
             "link": "https://youtu.be/jtwTjcXP__A",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "veshel",
+            "link": "https://youtu.be/EIq3po4AL1U?si=jBnCvjhkiS771yr1",
+            "percent": 100,
+            "hz": 1440
         }
     ]
 }
