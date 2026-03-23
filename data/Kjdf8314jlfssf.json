@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "bizzare",
+            "link": "https://youtu.be/0W181Nz3iaM?si=2hMX4ScVWLZxTOfx",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
