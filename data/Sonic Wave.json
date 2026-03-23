@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=BrFQGA855PI",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "veshel",
+            "link": "https://youtu.be/BmcMTT-Z8dw?si=FUP6UBh7MvLjNkYE",
+            "percent": 100,
+            "hz": 1440
         }
     ]
 }
