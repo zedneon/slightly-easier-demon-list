@@ -25,6 +25,12 @@
             "link": "https://youtu.be/lDCX8XLTuu0",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Elinore",
+            "link": "https://www.youtube.com/watch?v=BrFQGA855PI",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
