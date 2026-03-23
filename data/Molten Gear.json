@@ -8,5 +8,11 @@
     "percentToQualify": 69,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "veshel",
+            "link": "https://youtu.be/iW941tbaODM?si=1MZx7QpSGHbsm6_r",
+            "percent": 100,
+            "hz": 1440
+        }
     ]
 }
