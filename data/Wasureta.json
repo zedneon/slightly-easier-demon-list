@@ -91,6 +91,12 @@
             "link": "https://www.youtube.com/watch?v=WEkT2ImR_h4",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "KrisYa",
+            "link": "https://www.youtube.com/watch?v=jOgWnP6ZwZE&t=90s",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
