@@ -61,6 +61,12 @@
             "link": "https://www.youtube.com/watch?v=olJo9NEIXks",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "MrGinoDash",
+            "link": "https://youtu.be/mOykFomW46U",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
