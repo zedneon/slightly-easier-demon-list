@@ -98,6 +98,13 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h2>About This List</h2>
+                    <p>
+                        This is a list of Geometry Dash levels that are somewhat easier than the levels found on the Pointercrate Demon List.
+                    </p>
+                    <p>
+                        The rough cutoff for difficulty is Bloodlust, and extends to 150 levels.
+                    </p>
                     <h3>Submission Requirements</h3>
                     <p>
                         Achieve the record without using hacks.
