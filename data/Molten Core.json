@@ -9,8 +9,14 @@
     "password": "Free Copy",
     "records": [
         {
-            "user": "zedneon",
+            "user": "zedneon", 
             "link": "https://youtu.be/LPwZA-bo6cY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Adhafera",
+            "link": "https://www.youtube.com/watch?v=X0_qv5HiMdQ",
             "percent": 100,
             "hz": 240
         }
