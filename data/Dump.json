@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=LRNuU-iCaTI",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "summitt",
+            "link": "https://www.youtube.com/watch?v=vNR30Bo3shM",
+            "percent": 83,
+            "hz": 240
         }
     ]
 }
