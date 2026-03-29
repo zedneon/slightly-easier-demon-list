@@ -79,6 +79,12 @@
             "link": "https://www.youtube.com/watch?v=wadWjJcWMCc",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "graceful",
+            "link": "https://youtu.be/eMQ-io9cUxM",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
