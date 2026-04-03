@@ -22,7 +22,13 @@
         },
         {
             "user": "summitt",
-            "link": "https://www.youtube.com/watch?v=vNR30Bo3shM",
+            "link": "https://www.youtube.com/watch?v=SC2QXTMJrZ8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "[SCN] naokii",
+            "link": "https://www.youtube.com/watch?v=r37mrcp1xKQ&t=19s",
             "percent": 100,
             "hz": 240
         }
