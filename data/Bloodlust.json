@@ -109,6 +109,18 @@
             "link": "https://www.youtube.com/watch?v=e_T3Shaxer0",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "sabolek",
+            "link": "https://youtu.be/OKVaIAh56pk?si=K2QiwNN0Vd6H22Uf",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "chaseqwe",
+            "link": "https://youtu.be/gWmzVRWHhkw?si=BhFJLwnsVX4IkMRw",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
