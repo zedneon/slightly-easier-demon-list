@@ -43,6 +43,12 @@
             "link": "https://youtu.be/vhM-6N780uc?si=tZ99YZDQ5GWUMHw5",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "nico",
+            "link": "https://www.youtube.com/watch?v=Fp0Uz-FZYV8",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
