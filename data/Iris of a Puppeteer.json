@@ -8,5 +8,11 @@
     "percentToQualify": 67,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "TG96",
+            "link": "https://youtu.be/ry9PwJGzeX0?si=8mA-GAZekVBuo6S_",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
